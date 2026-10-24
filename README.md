@@ -4,7 +4,7 @@
 
 This repository contains the source code for the Islamic World website, built to introduce the Android application and provide users with access to its latest APK release.
 
-🌐 **Live Website:** [islamicworldwebsite.ubaidbilal957.workers.dev](https://islamicworldwebsite.ubaidbilal957.workers.dev/)
+🌐 **Live Website:** [islamicworldwebsite.ubaidbilal957.workers.dev](https://islamicworld.ubaid.pro/)
 
 📱 **Android App:** [Islamic World Releases](https://github.com/ciperpy/Islamic-World/releases/latest)
 
@@ -112,7 +112,7 @@ IslamicWorldWebsite/
 
 ## 🔗 Links
 
-* **Live Website:** https://islamicworldwebsite.ubaidbilal957.workers.dev/
+* **Live Website:** https://islamicworld.ubaid.pro/
 * **Android App Repository:** https://github.com/ciperpy/Islamic-World
 * **Latest APK Release:** https://github.com/ciperpy/Islamic-World/releases/latest
 
