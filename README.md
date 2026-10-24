@@ -17,7 +17,6 @@ This repository contains the source code for the Islamic World website, built to
 * 📱 **Responsive Design** — Designed to provide a user-friendly experience across different screen sizes.
 * ⚡ **Fast Deployment** — Hosted on Cloudflare.
 
-*Displayed information depends on the availability and implementation of the relevant GitHub release data.*
 
 ## 🛠️ Tech Stack
 
