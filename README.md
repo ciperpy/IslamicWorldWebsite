@@ -19,33 +19,6 @@ This repository contains the source code for the Islamic World website, built to
 
 *Displayed information depends on the availability and implementation of the relevant GitHub release data.*
 
-## 🔄 Automatic Release Detection
-
-The website uses the GitHub Releases API to retrieve information about the latest Android app release.
-
-Repository used:
-
-`ciperpy/Islamic-World`
-
-API endpoint:
-
-`https://api.github.com/repos/ciperpy/Islamic-World/releases/latest`
-
-When a new release is published with an APK asset, the website can retrieve the updated release information and use the new APK download URL.
-
-### Publishing a New App Version
-
-1. Update the Android application.
-2. Build the new signed release APK.
-3. Create a new GitHub Release in the Android app repository.
-4. Add a new version tag, such as `v1.2.2`.
-5. Upload the APK and publish the release.
-6. Visit the website and verify that the new version and download link are displayed correctly.
-
-The website is designed to detect new releases automatically, so routine APK updates should not require manually editing the website source code.
-
-**Note:** Release detection depends on the GitHub API being accessible and the release containing a valid APK asset. The website also has a configured fallback version.
-
 ## 🛠️ Tech Stack
 
 * React
