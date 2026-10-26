@@ -118,7 +118,7 @@ IslamicWorldWebsite/
 
 ## 👨‍💻 Developer
 
-**Ubaid Bilal**
+**Ubaid Bilal AKA CIPERPY**
 
 GitHub: [@ciperpy](https://github.com/ciperpy)
 
